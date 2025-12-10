@@ -19,7 +19,7 @@
 ## 📊 Мои проекты
 - [🛒 Анализ розничных продаж](https://github.com/irochkairochka/retail-analysis) — Python, Jupyter, анализ продаж по категориям, регионам и сезонности.  
 - [Дашборд для мониторинга KPI](https://github.com/irochkairochka/retail-kpi-dashboard) — Power BI, DAX, интерактивный анализ выручки.  
-- [ETL конвейер и автоматизация](https://github.com/irochkairochka/etl-superstore-pipeline) - Автоматизация через Task Scheduler / Airflow.
+- [ETL конвейер и автоматизация](https://github.com/irochkairochka/etl-superstore-pipeline) — Автоматизация через Task Scheduler / Airflow.
 
 ## 💬 Контакты
 - 📧 Email: irochkavinokurova@mail.ru
