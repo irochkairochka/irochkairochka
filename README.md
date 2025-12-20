@@ -1,4 +1,4 @@
-# Привет! 👋 Я Ирина 🙂
+# Привет! 👋 Я Ирина 
 
 **Data Analyst | SQL | Python | BI-tools**
 
@@ -16,11 +16,13 @@
 - **ETL**: Apache Airflow, Python scripts;
 - **Excel**: продвинутые формулы, сводные таблицы, макросы.
 
-## 📊 Мои проекты
-- [🛒 Анализ розничных продаж](https://github.com/irochkairochka/retail-analysis) — Python, Jupyter, анализ продаж по категориям, регионам и сезонности.  
-- [Дашборд для мониторинга KPI](https://github.com/irochkairochka/retail-kpi-dashboard) — Power BI, DAX, интерактивный анализ выручки.  
-- [ETL конвейер и автоматизация](https://github.com/irochkairochka/etl-superstore-pipeline) — Автоматизация через Task Scheduler / Airflow.
+## 📊 Мои проекты:  
+- [Дашборд для мониторинга KPI](https://github.com/irochkairochka/retail-kpi-dashboard) - Power BI, DAX, интерактивный анализ выручки.  
+- [ETL конвейер и автоматизация](https://github.com/irochkairochka/etl-superstore-pipeline) - Автоматизация через Task Scheduler / Airflow.  
+- [Анализ розничных продаж](https://github.com/irochkairochka/retail-analysis) - Python, Jupyter, анализ продаж по категориям, регионам и сезонности.
+- [Анализ товарных пар по частоте покупок](https://github.com/irochkairochka/promo-pairs-margin-ranking) - Python, Jupyter, топ-10 пар, визуализация в виде вертикальной диаграммы.
+- [Анализ маржинальности товарных пар](https://github.com/irochkairochka/retail-basket-pairs) - Python, VS Code, моделирование цен по категориям, heatmap топ-20 пар.  
 
-## 💬 Контакты
-- 📧 Email: irochkavinokurova@mail.ru
-- 📱 WhatsApp/Telegram: +7 (919) 128-29-95
+## 💬 Контакты  
+- 📧 Email: irochkavinokurova@mail.ru  
+- 📱 WhatsApp/Telegram: +7 (919) 128-29-95  
